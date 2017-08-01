@@ -4,4 +4,5 @@
 
 + [2016中国软件开发者白皮书](https://www.jianguoyun.com/p/DTYFwhIQ54i9BhiQrzE)
 + [The State of Developer Ecosystem 2017 - Infographic _ JetBrains](https://www.jianguoyun.com/p/DRBMN-UQ54i9BhjFrzE)
++ [technology-radar-nov-2016-cn](https://www.jianguoyun.com/p/DZ81xqgQ54i9BhjKrzE) 【[En](https://www.jianguoyun.com/p/Dc9HC5MQ54i9BhjLrzE)】
 + [《阿里巴巴Java开发手册（正式版）》更新（v1.2.0版）](https://www.jianguoyun.com/p/DZZriJ4Q54i9BhjErzE)
