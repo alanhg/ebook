@@ -2,6 +2,7 @@
 
 > 将一些IT业界不错的报告、规范、指南等书籍总结出来
 
++ [2015中国软件开发者白皮书](https://www.jianguoyun.com/p/De9_bI0Q54i9BhjcwDE)
 + [2016中国软件开发者白皮书](https://www.jianguoyun.com/p/DTYFwhIQ54i9BhiQrzE)
 + [The State of Developer Ecosystem 2017 - Infographic _ JetBrains](https://www.jianguoyun.com/p/DRBMN-UQ54i9BhjFrzE)
 + [Developer Survey Results 2017](https://insights.stackoverflow.com/survey/2017#overview)
