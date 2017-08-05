@@ -6,6 +6,7 @@
 ### 2017
 + [The State of Developer Ecosystem 2017 - Infographic _ JetBrains](https://www.jianguoyun.com/p/DRBMN-UQ54i9BhjFrzE)
 + [Developer Survey Results 2017](https://insights.stackoverflow.com/survey/2017#overview)
++ [Nodejs_2017_User_Survey_Exec_Summary](https://www.jianguoyun.com/p/Dfb7xpkQ54i9Bhjo2TE)
 
 ### 2016
 + [2016中国软件开发者白皮书](https://www.jianguoyun.com/p/DTYFwhIQ54i9BhiQrzE)
