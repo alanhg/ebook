@@ -7,7 +7,7 @@
 + [The State of Developer Ecosystem 2017 - Infographic _ JetBrains](https://www.jetbrains.com/research/devecosystem-2017/)
 + [Developer Survey Results 2017](https://insights.stackoverflow.com/survey/2017#overview)
 + [Nodejs_2017_User_Survey_Exec_Summary](https://www.jianguoyun.com/p/Dfb7xpkQ54i9Bhjo2TE)
-+ [Ionic 2017 Developer Survey](https://ionicframework.com/survey/2017#)
++ [2017 Ionic Developer Survey](https://ionicframework.com/survey/2017#)
 
 ### 2016
 + [2016中国软件开发者白皮书](https://www.jianguoyun.com/p/DTYFwhIQ54i9BhiQrzE)
