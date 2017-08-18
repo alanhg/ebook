@@ -21,4 +21,4 @@
 + [《阿里巴巴Java开发手册（正式版）》更新（v1.2.0版）](https://www.jianguoyun.com/p/DZZriJ4Q54i9BhjErzE)
 + [支付宝视觉规范](https://www.jianguoyun.com/p/DVLoMvIQ54i9BhjMwDE)
 + [正则表达式30分钟入门教程](https://www.jianguoyun.com/p/DTcqNI4Q54i9BhiW9jE)
-+ [鸟哥的Linux私房菜]()
++ [鸟哥的Linux私房菜](https://book.douban.com/subject/4889838/)
