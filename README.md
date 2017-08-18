@@ -1,6 +1,6 @@
 # Summary
 
-> 将一些IT业界不错的报告、规范、指南等书籍总结出来
+> 面向码农，将一些IT业界不错的书籍、报告、规范、等总结出来
 
 ## Survey
 ### 2017
@@ -16,8 +16,9 @@
 ### 2015
 + [2015中国软件开发者白皮书](https://www.jianguoyun.com/p/De9_bI0Q54i9BhjcwDE)
 
-## Others
+## book
 
 + [《阿里巴巴Java开发手册（正式版）》更新（v1.2.0版）](https://www.jianguoyun.com/p/DZZriJ4Q54i9BhjErzE)
 + [支付宝视觉规范](https://www.jianguoyun.com/p/DVLoMvIQ54i9BhjMwDE)
 + [正则表达式30分钟入门教程](https://www.jianguoyun.com/p/DTcqNI4Q54i9BhiW9jE)
++ [鸟哥的Linux私房菜]()
