@@ -22,3 +22,4 @@
 + [支付宝视觉规范](https://www.jianguoyun.com/p/DVLoMvIQ54i9BhjMwDE)
 + [正则表达式30分钟入门教程](https://www.jianguoyun.com/p/DTcqNI4Q54i9BhiW9jE)
 + [鸟哥的Linux私房菜](https://book.douban.com/subject/4889838/)
++ [运维三十六计v0.6-高效运维社区](https://www.jianguoyun.com/p/DRHpTTgQ54i9Bhj7-TM)
