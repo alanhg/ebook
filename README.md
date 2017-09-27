@@ -19,7 +19,6 @@
 ## book
 
 + [《阿里巴巴Java开发手册》终极版](https://www.jianguoyun.com/p/DRCIZWgQ54i9Bhj19jU)
-+ [鸟哥的Linux私房菜](https://book.douban.com/subject/4889838/)
 + [Chrome DevTools中文手册](https://leeon.gitbooks.io/devtools/content/index.html)
 + [正则表达式30分钟入门教程](https://www.jianguoyun.com/p/DTcqNI4Q54i9BhiW9jE)
 + [鸟哥的Linux私房菜](https://book.douban.com/subject/4889838/)
