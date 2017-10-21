@@ -20,6 +20,6 @@
 
 + [《阿里巴巴Java开发手册》终极版](https://www.jianguoyun.com/p/DRCIZWgQ54i9Bhj19jU)
 + [Chrome DevTools中文手册](https://leeon.gitbooks.io/devtools/content/index.html)
-+ [正则表达式30分钟入门教程](https://www.jianguoyun.com/p/DTcqNI4Q54i9BhiW9jE)
++ [正则表达式必知必会](http://www.ituring.com.cn/book/1585)
 + [鸟哥的Linux私房菜](https://book.douban.com/subject/4889838/)
 + [运维三十六计v0.6-高效运维社区](https://www.jianguoyun.com/p/DRHpTTgQ54i9Bhj7-TM)
