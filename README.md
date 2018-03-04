@@ -8,6 +8,7 @@
 + [Developer Survey Results 2017](https://insights.stackoverflow.com/survey/2017#overview)
 + [Nodejs_2017_User_Survey_Exec_Summary](https://www.jianguoyun.com/p/Dfb7xpkQ54i9Bhjo2TE)
 + [2017 Ionic Developer Survey](https://ionicframework.com/survey/2017#)
++ [technology-radar-vol-17-cn](https://www.jianguoyun.com/p/DQlRf0oQ54i9Bhix_0Q)【[En](https://www.jianguoyun.com/p/DaTm42EQ54i9Bhi3_0Q)】
 
 ### 2016
 + [2016中国软件开发者白皮书](https://www.jianguoyun.com/p/DTYFwhIQ54i9BhiQrzE)
